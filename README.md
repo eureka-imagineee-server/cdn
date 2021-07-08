@@ -4,6 +4,7 @@ the powerful CDN for imgineee
 ## Content
 - [Fonts](#Fonts)
   - [Serif](#Serif)
+  - [IBM Plex](#IBM-Plex)
 
 
 ## Fonts
@@ -21,5 +22,5 @@ Avalible fonts:
 - [fredoka](https://fonts.google.com/specimen/Fredoka+One?category=Display#standard-styles)
 - [comfortaa](https://fonts.google.com/specimen/Comfortaa?category=Display#standard-styles)
 - [abril-fatface](https://fonts.google.com/specimen/Abril+Fatface?category=Display)
-### IBM Plex Mono
+### IBM Plex
 *coming soon*
