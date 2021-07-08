@@ -13,6 +13,11 @@ These fonts are avalible for anyone to use.
 Each font has a catogary and they link to a css file you can import in your page and then use the ```font-family``` css property and use the font names provided; eg.: ```font-family:  comfortaa;```.
 
 There are also links to the page that the fonts are taken from.
+
+another trik is fallback fonts on other system, simply add the line bellow after the desired font in the font-family property
+```css
+... ,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+```
 ### Serif
 these are serif fonts avalible at:
 ```
