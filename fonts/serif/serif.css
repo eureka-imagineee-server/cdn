@@ -1,12 +1,15 @@
 @font-face {
     font-family: fredoka;
     src: url(FredokaOne.ttf);
+    font-display: swap;
 }
 @font-face {
     font-family: comfortaa;
     src: url(Comfortaa.ttf);
+    font-display: swap;
 }
 @font-face {
     font-family: abril-fatface;
     src: url(AbrilFatface.ttf);
+    font-display: swap;
 }
