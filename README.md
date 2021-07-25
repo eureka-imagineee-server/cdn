@@ -5,6 +5,7 @@ the powerful CDN for imgineee
 - [Fonts](#Fonts)
   - [Serif](#Serif)
   - [IBM Plex](#IBM-Plex)
+- [Images](#Images)
 
 
 ## Fonts
@@ -29,3 +30,5 @@ Avalible fonts:
 - [abril-fatface](https://fonts.google.com/specimen/Abril+Fatface?category=Display)
 ### IBM Plex
 *coming soon*
+
+## Images
