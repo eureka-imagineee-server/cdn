@@ -15,8 +15,13 @@ these are serif fonts avalible at:
 https://eureka-imagineee-server.github.io/cdn/fonts/serif/serif.css
 ```
 Avalible fonts:
-- [fredoka](https://fonts.google.com/specimen/Fredoka+One?category=Display#standard-styles)
-- [comfortaa](https://fonts.google.com/specimen/Comfortaa?category=Display#standard-styles)
-- [abril-fatface](https://fonts.google.com/specimen/Abril+Fatface?category=Display)
+- [fredoka](https://fonts.google.com/specimen/Fredoka+One)
+- [comfortaa](https://fonts.google.com/specimen/Comfortaa)
+- [abril-fatface](https://fonts.google.com/specimen/Abril+Fatface)
+
+### Sans-Serif
+These are sans serif fonts (seperated)
+Avalible Font:
+- [Raleway](https://fonts.google.com/specimen/Raleway) [(import)](https://eureka-imagineee-server.github.io/cdn/fonts/sans-serif/raleway.css)
 ### IBM Plex
 *coming soon*
