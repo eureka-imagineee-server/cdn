@@ -5,7 +5,7 @@ Each font has a catogary and they link to a css file you can import in your page
 
 There are also links to the page that the fonts are taken from.
 
-another trik is fallback fonts on other system, simply add the line bellow after the desired font in the font-family property
+another trick is fallback fonts on other system, simply add the line bellow after the desired font in the font-family property
 ```css
 ... ,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 ```
