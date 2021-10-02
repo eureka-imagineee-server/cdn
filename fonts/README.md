@@ -20,8 +20,9 @@ Avalible fonts:
 - [abril-fatface](https://fonts.google.com/specimen/Abril+Fatface)
 
 ### Sans-Serif
-These are sans serif fonts (seperated)
+These are sans serif fonts (seperated to each css file to reduce download on page load)
+<br>
 Avalible Font:
-- [Raleway](https://fonts.google.com/specimen/Raleway) [(import)](https://eureka-imagineee-server.github.io/cdn/fonts/sans-serif/raleway.css)
+- [Raleway](https://fonts.google.com/specimen/Raleway) [(import url)](https://eureka-imagineee-server.github.io/cdn/fonts/sans-serif/raleway.css)
 ### IBM Plex
 *coming soon*
