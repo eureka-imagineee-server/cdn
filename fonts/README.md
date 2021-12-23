@@ -9,10 +9,18 @@ another trick is fallback fonts on other system, simply add the line bellow afte
 ```css
 ... ,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 ```
+### Font api versions
+There are diffrent version of accsesing fonts. These usally relased in chronological order.
+- V1:
+  - All the fonts from the catogary are put in one css file.
+- V2:
+  - these seperate each font individualy to their own files.
 ### Serif
+**V1 font api**
 these are serif fonts avalible at:
 ```
 https://eureka-imagineee-server.github.io/cdn/fonts/serif/serif.css
+# one url for all
 ```
 Avalible fonts:
 - [fredoka](https://fonts.google.com/specimen/Fredoka+One)
@@ -20,9 +28,12 @@ Avalible fonts:
 - [abril-fatface](https://fonts.google.com/specimen/Abril+Fatface)
 
 ### Sans-Serif
+**V2 font api**
 These are sans serif fonts (seperated to each css file to reduce download on page load)
 <br>
 Avalible Font:
 - [Raleway](https://fonts.google.com/specimen/Raleway) [(import url)](https://eureka-imagineee-server.github.io/cdn/fonts/sans-serif/raleway.css)
+- [Work Sans](https://fonts.google.com/specimen/Work+Sans) [(import url)](https://eureka-imagineee-server.github.io/cdn/fonts/sans-serif/work-sans.css)
 ### IBM Plex
+**V1, V2 hybrid font api**
 *coming soon*
