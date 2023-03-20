@@ -33,8 +33,8 @@
   --background-image: url(https://raw.githubusercontent.com/eureka-imagineee-server/cdn/main/discord/themes/car1.png); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
-  --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
-  --background-brightness: 100%; /* Changes the background images brightness */
+  --background-blur: 10px; /* Blurs the image which usually helps with readability of text infront of it */
+  --background-brightness: 50%; /* Changes the background images brightness */
   
   --title-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
   --title-image-repeat: no-repeat; /* If the title image should repeat */
