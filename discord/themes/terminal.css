@@ -11,7 +11,7 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight: 71, 89, 106; /* The main highlight color */
+  --rgb-highlight: 54, 39, 105; /* The main highlight color */
   --rgb-background: 9, 0, 9; /* The main background color */
   --rgb-text: 198, 227, 255; /* The color (almost) all text should use */
   --rgb-close-button: 255, 59, 90; /* The main "close this" or "deny" color */
