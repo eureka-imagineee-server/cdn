@@ -1,14 +1,6 @@
 /**
- * @name Fallout 4 Terminal
- * @author Bates#7075
- * @version 2.0.0
- * @source https://github.com/CommandCrafterHD/Fallout4TerminalTheme
- * @website https://commandcrafterhd.github.io/Fallout4TerminalTheme
- * @donate https://www.paypal.com/paypalme/floriancegledi
- * @patreon https://patreon.com/bates
- * @description A theme inspired by Fallout 4's terminals!
- * @authorId 137259132305539072
- * @invite 6qd3SkP6Ch
+ * @name Terminal
+ * @description A remix of a terminal theme
 */
 
 @import url('https://raw.githubusercontent.com/eureka-imagineee-server/cdn/main/discord/themes/mainRewrite.css');
@@ -21,8 +13,8 @@
 :root {
   --rgb-highlight: 71, 89, 106; /* The main highlight color */
   --rgb-background: 9, 0, 9; /* The main background color */
-  --rgb-text: 142, 190, 224; /* The color (almost) all text should use */
-  --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
+  --rgb-text: 198, 227, 255; /* The color (almost) all text should use */
+  --rgb-close-button: 255, 59, 90; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
   --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 255, 0, 0; /* The color used in the "do not disturb" user status symbol */
@@ -36,7 +28,7 @@
   --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
   --background-brightness: 30%; /* Changes the background images brightness */
   
-  --title-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
+  --title-image: unset; /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
   --title-image-repeat: no-repeat; /* If the title image should repeat */
   --title-image-size: cover; /* The size of the title image */
   --title-image-color: var(--highlight); /* The color used for the title image */
